@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551865381 source:c:\users\himanshu raj\desktop\c programms\hackerrank\grading system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

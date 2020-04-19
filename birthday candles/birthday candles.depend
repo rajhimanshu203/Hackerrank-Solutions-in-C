@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551359645 source:c:\users\himanshu raj\desktop\c programms\hackerrank\birthday candles\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
